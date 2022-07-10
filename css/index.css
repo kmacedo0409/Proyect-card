@@ -52,12 +52,15 @@ padding: 0 1rem;
 
 }
 .card__body-title {
+    text-align: center;
 
 }
 .card__body-keywords {
+    text-align: center;
 
 }
 .card__body-presentation {
+    text-align: justify;
 
 }
 
